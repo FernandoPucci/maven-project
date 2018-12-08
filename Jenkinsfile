@@ -2,8 +2,9 @@ pipeline {
     agent any
 
     environment{
-        my_tag = my_tag
-        my_name = fsilvapucci
+        my_tag = "my_tag"
+        my_tag = "my_tag"
+        my_name = "fsilvapucci"
     }
      
     
