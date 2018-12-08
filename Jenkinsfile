@@ -3,7 +3,6 @@ pipeline {
 
     environment{
         my_tag = "my_tag"
-        my_tag = "my_tag"
         my_name = "fsilvapucci"
     }
      
